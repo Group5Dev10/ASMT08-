@@ -8,7 +8,7 @@
 ### Introduction: 
 This project examines data from the 2019 Census Bureau's Annual Business Survey (ABS) API. Data from the survey is broken up into four topics: Company Summary, Characteristics of Business, Characteristics of Business owner, and Business Technology. Using these data, we attempt to answer the questions:
 - Home ownership 
-- Question 2
+- Education
 - Question 3
 - Question 4
 
