@@ -10,4 +10,4 @@ This project examines data from the 2019 Census Bureau's [Annual Business Survey
 - Veteran Status
 
 ### **Naviation**:
-You will find the ETL Report, Final Project Report, and presentation in the master branch. The ETL Report outlines general steps for extracting the four datasets from the ABS API, as well as specific transformation and cleaning steps each member took to create their visualizations. The final report contains all visualizations and findings from this project.
+You will find the ETL Report, Final Project Report, and presentation in the **master branch**. The ETL Report outlines general steps for extracting the four datasets from the ABS API, as well as specific transformation and cleaning steps each member took to create their visualizations. The final report contains all visualizations and findings from this project.
